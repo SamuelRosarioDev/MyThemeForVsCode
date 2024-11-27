@@ -1,0 +1,21 @@
+{
+  "name": "Kirito-Theme",
+  "displayName": "Kirito-Theme",
+  "description": "Thema do kirito de sword art online",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kirito Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kirito Theme-color-theme.json"
+      }
+    ]
+  }
+}
