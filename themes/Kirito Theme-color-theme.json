@@ -1,7 +1,7 @@
 {
 	"name": "Kirito Theme",
 "colors": {
-    "editor.background": "#303030",
+    "editor.background": "#ffffff00",
     "editor.foreground": "#ffffff",
     "editor.lineHighlightBackground": "#2c2c2c",
     "editor.selectionBackground": "#264f78",
@@ -10,7 +10,7 @@
     "editorLineNumber.activeForeground": "#ffffff",
     "editorGroupHeader.tabsBackground": "#252526",
     "editorGroupHeader.tabsBorder": "#1e1e1e",
-    "editorWhitespace.foreground": "#6c6c6c",
+    "editorWhitespace.foreground": "#ffffff",
     "activityBar.background": "#060606",
     "activityBar.foreground": "#878787",
     "activityBar.border": "#b2000000",
@@ -118,7 +118,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#EFEFEF"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#000000",
+				"foreground": "#5eff00",
 				"fontStyle": ""
 			}
 		},
@@ -262,7 +262,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#7f7f7f",
+				"foreground": "#ffffff",
 				"fontStyle": "bold underline"
 			}
 		},
@@ -287,7 +287,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#000000",
+				"foreground": "#b1b1b1",
 				"fontStyle": "bold"
 			}
 		},
@@ -455,7 +455,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#000000",
+				"foreground": "#969696",
 				"fontStyle": "bold"
 			}
 		},

@@ -2,6 +2,7 @@
   "name": "Kirito-Theme",
   "displayName": "Kirito-Theme",
   "description": "Thema do kirito de sword art online",
+  "publisher": "SamuelRosarioDev",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.95.0"
